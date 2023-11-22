@@ -28,8 +28,8 @@ This is a basic implementation meant for educational purposes. Use responsibly a
 
 ## Contributors
 
-- (UnoXit)[https://github.com/Uno13x]
-- (Kind/skull)[https://www.github.com/SkullXss]
+- [UnoXit](https://github.com/Uno13x)
+- [Kind/skull](https://www.github.com/SkullXss)
 
 ## Version
 
